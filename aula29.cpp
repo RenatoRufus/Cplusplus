@@ -38,3 +38,11 @@ int main(){
 
     return 0;
 }
+
+/*
+    push
+    pop
+    top
+    size
+    empety
+*/

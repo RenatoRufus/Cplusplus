@@ -60,6 +60,7 @@ int main(){
     }
     
     cout<<"Novo tamanho de num: " << num.size();
+    cout<<"endl";
 
 
     return 0;

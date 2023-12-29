@@ -7,11 +7,10 @@ using namespace std;
 int main(){
 
     system("ls");
-    system("cd /home/jr");
     cout<<"Limpo\n";
     system("gedit");
+    system("pwd");
 
-    
 
     return 0;
 }
